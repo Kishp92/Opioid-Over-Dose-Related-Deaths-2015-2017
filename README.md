@@ -26,4 +26,5 @@ There is no doubt that there is an opioid abuse issue in America. These dashboar
 4. Hand surgery providers prescribed the most at 58% followed by pain management. 
 5. There were many providers who prescribed more than 90% and a high claim count but a few stood out such as Dr. Mark Murphy with a prescribing rate of 66% but with a very high claim count at 22,652 in Alabama. Prescribers like these may be good subjects to investigate.  
 
-UPDATE ON DR. MARK MURPHY: https://www.justice.gov/opa/pr/pain-clinic-owners-convicted-unlawfully-distributing-opioids-and-multimillion-dollar-health
+<a href="https://www.justice.gov/opa/pr/pain-clinic-owners-convicted-unlawfully-distributing-opioids-and-multimillion-dollar-health">UPDATE ON DR. MARK MURPHY</a>
+
