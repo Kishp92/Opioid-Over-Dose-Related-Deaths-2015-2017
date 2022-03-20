@@ -4,6 +4,10 @@
 
 Analysis of Medicaid reported drug over dose death data which highlights opioid vs death by other drugs by state, prescription rates, specialty and outlying prescribers.
 
+## Purpose
+
+There is no doubt that there is an opioid abuse issue in America. These dashboards gives the user an overveiw of the deaths related to opioid overdose 
+
 ## Tableau Dashboards
 
 <a href="https://public.tableau.com/app/profile/kishan.patel2847/viz/OpioidsMedicaidReimbursementandDeathsperState/ODeathsvsMedicaidReimbursements">Opioids: Medicaid Reimbursement and Deaths per State</a>
